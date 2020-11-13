@@ -7,3 +7,9 @@ You are to create a report that includes what cryptocurrencies are on the tradin
 - [crypto_data.csv](resources/crypto_data.csv)
 - Software: Jupyter Notebook 6.0.3, Python 3.7.7, Visual Studio Code 1.51
 
+## Challenge Results
+We have found there to be **532** tradable cryptocurrencies.
+
+| **3D Scatter** | **Scatter** |
+|:----------------:|:---------:|
+| ![3dscatter](images/3dscatter.png) | ![scatter](images/scatter.png) |
